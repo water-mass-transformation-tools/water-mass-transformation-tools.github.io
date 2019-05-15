@@ -1,6 +1,4 @@
-# Welcome to Water Mass Transformation (WMT) Tools
-
-This page will be online with content for OS 2020.
+Welcome to Water Mass Transformation (WMT) Tools. This page will be online with content XXX.
 
 # Preliminary Content
 
