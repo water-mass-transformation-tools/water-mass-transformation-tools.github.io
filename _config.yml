@@ -1,6 +1,6 @@
 theme: jekyll-theme-minimal
 title: Water mass transformation (WMT) tools 
-logo: src/images/wmtlogo.png
+logo: src/wmtlogo.png
 description: Collection of literature, code, figures to support wmt studies.
 #Additionally, you may choose to set the following optional variables:
 #show_downloads: ["true" or "false" to indicate whether to provide a download URL]
