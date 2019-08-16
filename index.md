@@ -1,15 +1,16 @@
 Welcome to Water Mass Transformation (WMT) Tools. This page will be **online** with content for the **OSM 2020**.
 
+# --- News ---
+* Consider to submit an abstract to the [WMT session at OSM 2020](https://agu.confex.com/agu/osm20/prelim.cgi/Session/85110), deadline is Sept 11! 
+
 # Preliminary Content
 
-### Meetings/Workshops
+### Previous Meetings/Workshops/Sessions
 * WMT for Ocean Physics and Biogeochemistry, Feb 2019, UNSW, Sydney, Australia: [program outline](https://www.maths.unsw.edu.au/events/2019-02/water-mass-transformation-for-ocean-physics-and-biogeochemistry) & [participants](src/wmt_workshop_2019.jpg).
-* ...
 
 ### WMT Literature
 Reviews and technical literature  
 * Groeskamp et al, 2019, The water mass transformation framework for ocean physics and biogeochemistry, _Annual Review of Marine Science_, vol. 11, pp. 271 - 305, [http://dx.doi.org/10.1146/annurev-marine-010318-095421](http://dx.doi.org/10.1146/annurev-marine-010318-095421).
-* ...
 
 Examples of tantalizing questions approached with WMT diagnostics
 * Iudicone et al, 2016, The formation of the ocean’s anthropogenic carbon reservoir, _Scientific Reports_, 6, (35473), [http://dx.doi.org/10.1038/srep35473](http://dx.doi.org/10.1038/srep35473).
